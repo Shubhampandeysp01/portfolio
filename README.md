@@ -2,7 +2,7 @@
 
 ## live preview link
 
-[See Now](/)
+[See Now](https://shubhampandey-six.vercel.app/)
 
 
 ## packages:
