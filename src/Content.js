@@ -120,7 +120,7 @@ export const content = {
             firstName: "SHUBHAM",
             LastName: "PANDEY",
             btnText: "View resume",
-            btnLink: "https://www.canva.com/design/DAFtEjwG2uQ/DPT5yvnlL__GwX5jheGORw/edit?utm_content=DAFtEjwG2uQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+            btnLink: "https://www.canva.com/design/DAGLwkQO6ZA/RSKtAcqi7BsbNJz4aOHdWQ/edit?utm_content=DAGLwkQO6ZA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
         
             hero_content: [
                 {
